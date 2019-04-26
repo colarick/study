@@ -13,6 +13,7 @@ Contributions are welcome!
 npm run dev
 
 # 添加导航 text&link
+
 modify /src/.vuepress/config.js
 such as: 
  {
